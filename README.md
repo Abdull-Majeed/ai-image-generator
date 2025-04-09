@@ -39,5 +39,5 @@ This is a React Native app built with CLI that allows users to generate images f
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/react-native-image-generator.git
-cd react-native-image-generator
+git clone https://github.com/abdull-majeed/ai-image-generator.git
+cd ai-image-generator
